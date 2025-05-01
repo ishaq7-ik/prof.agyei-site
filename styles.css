@@ -1,0 +1,106 @@
+body {background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    color: #333;
+}
+.home-header{
+    text-align: center;
+    color:darkblue;
+
+}
+.supervisions-header{
+text-align: center;
+color: darkblue;
+}
+.center-text{
+    text-align: center;
+
+}
+.profile-header{
+ text-align: left;
+    font-sze: 25px;
+   color:darkblue;
+}
+ footer {
+    text-align: left;
+    font-sze: 20px;
+
+    color: darkblue;
+    padding: 0;
+
+}
+.footer-text{
+    margin: 10px;
+    font-size: 14px;
+    color: #555;
+}
+.prof-Agyei{max-width:120px ;
+    height: auto;
+    border-radius: 50%;
+
+}
+
+        a {
+    text-decoration: none;
+}
+nav.navbar {
+    background: darkblue;
+    font-family: Arial;
+     padding: 10px 0;
+      
+}
+.logo a{
+    font-size: 35px; font-weight: 500; color: white;
+}
+nav.navdiv{display: flex; align-items: center; justify-content: space-between;
+
+}
+nav.navbar li{
+    list-style: none; display:inline-block ;
+}
+nav.navbar ul li a{
+    color: white; font-size: 15px; font-weight: ; margin-right: 25px;
+}
+    
+
+.container {
+    padding: 0;
+}
+
+img {    
+    margin-left:auto ;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+}
+table.visible {
+    width: 80%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.visible th,table.visible td{
+    border: 1px solid black;
+    padding: 8px;
+    border-collapse: collapse;
+}
+table.invisible {
+    width: 80%;
+}
+
+table.invisible td {
+    table-layout: center;
+    padding: 0px;
+}
+
+input[type="text"], input[type="email"] {
+ justify-content: space-between;
+
+    width: 20%;
+    padding: 0 5px;
+    margin: 5px 0;
+}
+
